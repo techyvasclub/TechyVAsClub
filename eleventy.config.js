@@ -59,15 +59,15 @@ export default async function(eleventyConfig) {
 		},
 		collection: {
 			name: "posts",
-			limit: 10,
+			limit: 11,
 		},
 		metadata: {
 			language: "en",
-			title: "Blog Title",
-			subtitle: "This is a longer description about your blog.",
-			base: "https://example.com/",
+			title: "Techy VAs.Club",
+			subtitle: "My experiences as a Virtual Assistant.",
+			base: "https://techyvas.club/",
 			author: {
-				name: "Your Name"
+				name: "Admir Zukic"
 			}
 		}
 	});

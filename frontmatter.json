@@ -4,6 +4,7 @@
     {
       "name": "default",
       "pageBundle": false,
+      "template": "[[workspace]]/.frontmatter/templates/post-template.md",
       "previewPath": null,
       "fields": [
         {
@@ -20,8 +21,8 @@
           "title": "Publishing date",
           "name": "date",
           "type": "datetime",
-          "default": "{{now}}",
-          "isPublishDate": true
+          "isPublishDate": true,
+          "dateFormat": "yyyy-MM-dd"
         },
         {
           "title": "Content preview",
@@ -42,6 +43,16 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "Title",
+          "name": "Title",
+          "type": "string"
+        },
+        {
+          "title": "eleventyExcludeFromCollections",
+          "name": "eleventyExcludeFromCollections",
+          "type": "boolean"
         }
       ]
     }
@@ -52,7 +63,35 @@
     {
       "title": "content",
       "path": "[[workspace]]/content"
+    },
+    {
+      "title": "blog",
+      "path": "[[workspace]]/content/blog"
+    },
+    {
+      "title": "tools",
+      "path": "[[workspace]]/content/blog/tools"
+    },
+    {
+      "title": "howtos",
+      "path": "[[workspace]]/content/blog/howtos"
+    },
+    {
+      "title": "jobgivers",
+      "path": "[[workspace]]/content/blog/jobgivers"
+    },
+    {
+      "title": "jobseekers",
+      "path": "[[workspace]]/content/blog/jobseekers"
+    },
+    {
+      "path": "[[workspace]]/public"
+    },
+    {
+      "title": "img",
+      "path": "[[workspace]]/public/img"
     }
   ],
-  "frontMatter.git.enabled": true
+  "frontMatter.git.enabled": true,
+  "frontMatter.content.snippets": {}
 }

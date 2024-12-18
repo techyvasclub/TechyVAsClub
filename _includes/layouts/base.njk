@@ -60,10 +60,25 @@
 		</main>
 
 		<footer>
-			<p><em>Built with <a href="https://www.11ty.dev/">{{ eleventy.generator }}</a></em></p>
+			<p><em>Built by <a href="/about/">Ado</a> with <a href="https://www.11ty.dev/">{{ eleventy.generator }}</a></em></p>
 		</footer>
 
 		<!-- This page `{{ page.url }}` was built on {% currentBuildDate %} -->
 		<script type="module" src="{% getBundleFileUrl "js" %}"></script>
+		<script>
+		(function () {
+				const links = document.querySelectorAll("a[href^='https://'], a[href^='http://']")
+				const host = window.location.hostname
+
+				const isInternalLink = link => new URL(link).hostname === host
+
+				links.forEach(link => {
+					if (isInternalLink(link)) return
+
+					link.setAttribute("target", "_blank")
+					link.setAttribute("rel", "noopener")
+				})
+			})()
+			</script>
 	</body>
 </html>

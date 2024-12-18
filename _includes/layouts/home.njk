@@ -4,8 +4,24 @@ layout: layouts/base.njk
 <!-- Delete this block, which will also remove the component CSS from the bundle -->
 {%- css %}{% include "public/css/message-box.css" %}{% endcss %}
 <div class="message-box">
-	<p><em>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>.</em></p>
+	<p>Welcome back. <br/>
+	A place to:</p>
+	<ul>
+		<li>Improve your skills as a virtual assistant.</li>
+		<li>Find websites for VAs.</li>
+		<li>Find free tools for virtual assistants.</li>
+	</ul>
 </div>
 <!-- Stop deleting -->
 
 {{ content | safe }}
+
+<hr/>
+
+<h1>Links</h1>
+<ul>
+	<li><a href="/tech-stack/">Tech Stack</a></li>
+	<li><a href="/social-contact/">Contact + Socials</a></li>
+	<li><a href="/privacy-policy/">Disclaimer + Privacy Policy</a></li>
+	<li><a href="/support/">Support Us</a></li>
+</ul>

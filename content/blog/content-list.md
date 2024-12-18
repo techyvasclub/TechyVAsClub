@@ -1,6 +1,6 @@
 ---
 title: Planed content list
-description: This is the planned content list for this website.
+description: The planned content list for this website.
 date: 2024-12-01
 tags:
     - howTOs
@@ -13,19 +13,17 @@ keywords:
 
 Following this list we will publish content on our website and social media profiles. Items that have a ~~strikethrough~~ are already published.
 
-This content list is subjec to costant changes.
+This content list is subject to costant changes.
 
 ## Pages
-- About
-- Tech Stack
-- Contact + Social
-- Disclaimer + Privacy Policy
-- Support page
-- Services
+- ~~About~~
+- ~~Tech Stack~~
+- ~~Contact + Social~~
+- ~~Disclaimer + Privacy Policy~~
+- ~~Support page~~
 
 ## HowTOs
 - Write a killer CV in 2025?
-- Create your video CV 
 - Create a CV with WordPress
 - Write a simple CV with Jekyll
 - Create an online CV with Hugo & Astro
@@ -33,9 +31,9 @@ This content list is subjec to costant changes.
 - Price your work as a virtual assistant
 - Create a content list and editorial calendar for your blog / website
 - Create your VA website in 3 days
-    - DAY 1: The prep
-    - DAY 2: Technical prep
-    - DAY 3: The distribution
+	- DAY 1: The prep
+	- DAY 2: Technical prep
+	- DAY 3: The distribution
 
 ## Jobseekers
 - The VA CV that changed my career path
@@ -55,6 +53,10 @@ This content list is subjec to costant changes.
 - HowTO find the right VA
 
 ## Tools
+A Bi-Weekly series showing the tools every Virtual Assistant should have.
+- MOST IMPORTANT TOOL: Your Home Office Setup
+- Networking: Where to find work as a Virtual Assistant?
+- Inspiration: What to do as a Virtual Assistant?
 
 <hr/>
 This list is only a draft and might be subject to changes. Posts and content on this website might differ.
