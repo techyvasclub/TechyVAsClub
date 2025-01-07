@@ -20,5 +20,5 @@ Join the community and check our latest content:
 - [Mastodon](https://mastodon.social/@techyvasclub)
 - [Ecency](https://ecency.com/@nostalgiqa)
 - [Bluesky](techyvasclub.bsky.social)
-- [InLeo](https://inleo.io/signup?referral=nostalgiqer) **referral link**
+- [InLeo](https://inleo.io/signup?referral=techyvas) **referral link**
 - [3speak.tv](https://3speak.tv/user/nostalgiqer)
