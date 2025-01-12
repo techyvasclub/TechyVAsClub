@@ -1,7 +1,6 @@
 ---
 title: Disclaimer + Privacy Policy
 description: Our disclaimer page and Privacy Policy
-eleventyExcludeFromCollections: true
 keywords:
     - Privacy Policy
 ---

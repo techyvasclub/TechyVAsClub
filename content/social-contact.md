@@ -1,10 +1,9 @@
 ---
-title: Social + Contact
-eleventyExcludeFromCollections: true
+title: Contact + Socials
 keywords:
   - social
   - contact
-description: Our Social + Contact page.
+description: Our Contact + Social page.
 ---
 # Contact
 Drop us a line or 2, ask some question or give us feedback. We would be glad to hear from you.
@@ -18,7 +17,8 @@ Join the community and check our latest content:
 
 # We on the decentralized web
 - [Mastodon](https://mastodon.social/@techyvasclub)
-- [Ecency](https://ecency.com/@nostalgiqa)
+- [Ecency](https://ecency.com/signup?referral=techyvas) **referral link**
 - [Bluesky](techyvasclub.bsky.social)
 - [InLeo](https://inleo.io/signup?referral=techyvas) **referral link**
-- [3speak.tv](https://3speak.tv/user/nostalgiqer)
+- [Steemit](https://steemit.com/@techyvas)
+- [3speak.tv](https://3speak.tv/user/techyvas)
