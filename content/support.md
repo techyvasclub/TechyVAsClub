@@ -14,7 +14,7 @@ Visit our [Contact + Social page](/social-contact/), make sure to follow and sub
 
 ## Decentralized web
 Instead of asking directly for $ donations, we chose to take a different approach. These websites reward their users for engagement, interaction and content creation.
-- [Ecency]https://ecency.com/signup?referral=techyvas)**referral link**
+- [Ecency](https://ecency.com/signup?referral=techyvas) **referral link**
 - [InLeo](https://inleo.io/signup?referral=techyvas) **referral link**
 - [PeakD](https://peakd.com/register?ref=techyvas) **referral link**
 - [3speak.tv](https://3speak.tv/user/techyvas)
