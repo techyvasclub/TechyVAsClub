@@ -20,5 +20,6 @@ Join the community and check our latest content:
 - [Ecency](https://ecency.com/signup?referral=techyvas) **referral link**
 - [Bluesky](techyvasclub.bsky.social)
 - [InLeo](https://inleo.io/signup?referral=techyvas) **referral link**
+- [WFH Club](https://inleo.io/communities/hive-10701) HIVE community
 - [Steemit](https://steemit.com/@techyvas)
 - [3speak.tv](https://3speak.tv/user/techyvas)

@@ -17,6 +17,7 @@ Instead of asking directly for $ donations, we chose to take a different approac
 - [Ecency](https://ecency.com/signup?referral=techyvas) **referral link**
 - [InLeo](https://inleo.io/signup?referral=techyvas) **referral link**
 - [PeakD](https://peakd.com/register?ref=techyvas) **referral link**
+- [WFH Club](https://inleo.io/communities/hive-10701) HIVE community
 - [3speak.tv](https://3speak.tv/user/techyvas)
 - [Steemit](https://steemit.com/@techyvas/posts)
 
